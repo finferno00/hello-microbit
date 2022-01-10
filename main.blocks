@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="UH,*#HYH^1esl?{8OPj*">index</variable></variables><block type="device_button_event" id="jHOSjBTerZj}iY:LNy`t" x="-202" y="-56"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="ND5D.)CO-OMYO89LqA}4"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="UH,*#HYH^1esl?{8OPj*">index</variable></variables><block type="device_button_event" id="jHOSjBTerZj}iY:LNy`t" x="687" y="-276"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="ND5D.)CO-OMYO89LqA}4"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . # . . 
@@ -34,7 +34,7 @@
         . . . . . 
         . # # # . 
         # . . . #
-        `</field></block></next></block></statement></block></statement></block><block type="device_button_event" id="t3K3LxfrR9Ja$|e=;:-C" x="199" y="52"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="pxt_controls_for" id="bVO.pCaVxB$zGS(5|,OI"><value name="VAR"><shadow type="variables_get_reporter" id="!,3GMisK?9VF5BQ^wzg{"><field name="VAR" id="UH,*#HYH^1esl?{8OPj*">index</field></shadow></value><value name="TO"><shadow type="math_whole_number" id="%(er3!vN94p.uPHU%CUC"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="1MAXK6Q:4[(1{O32Zu[X"><field name="LEDS">`
+        `</field></block></next></block></statement></block></statement></block><block type="device_button_event" id="t3K3LxfrR9Ja$|e=;:-C" x="251" y="25"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="pxt_controls_for" id="bVO.pCaVxB$zGS(5|,OI"><value name="VAR"><shadow type="variables_get_reporter" id="!,3GMisK?9VF5BQ^wzg{"><field name="VAR" id="UH,*#HYH^1esl?{8OPj*">index</field></shadow></value><value name="TO"><shadow type="math_whole_number" id="%(er3!vN94p.uPHU%CUC"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="1MAXK6Q:4[(1{O32Zu[X"><field name="LEDS">`
         # . . . . 
         . . . . . 
         . . . . . 
